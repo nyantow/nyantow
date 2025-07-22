@@ -1,4 +1,4 @@
-[![](https://skillicons.dev/icons?i=js,html,css,linux,arch)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=lua,html,css,linux,arch)](https://skillicons.dev)
 
 <!--
 **nyantow/nyantow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
